@@ -6,7 +6,7 @@ import { FaTwitterSquare } from "react-icons/fa";
 const Footer = () => (
   <div className="bg-grey-lighter shadow-inner ">
     <div className="align-baseline flex flex-col-reverse md:flex-row md:justify-between max-w-xl mx-auto p-4 md:p-8 md:pb-2 text-sm">
-      <p className="w-full md:w-3/4 text-center md:text-left mt-4 sm:mt-0 text-indigo-dark">
+      <p className="w-full md:w-3/4 text-center md:text-left mt-4 sm:mt-0 text-indigo-darkest">
         © 2018{" "}
         <a
           href="https://andrewmason.me"
