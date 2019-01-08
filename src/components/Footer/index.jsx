@@ -17,7 +17,7 @@ const Footer = () => (
           Andrew Mason
         </a>
       </p>
-      <ul className="md:w-1/4 list-reset flex justify-between text-base h-full">
+      <ul className="md:w-1/4 list-reset flex justify-between text-base md:text-2xl h-full">
         <li className="px-1 md:px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
