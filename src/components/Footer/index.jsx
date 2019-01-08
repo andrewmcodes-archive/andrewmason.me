@@ -17,8 +17,8 @@ const Footer = () => (
           Andrew Mason
         </a>
       </p>
-      <ul className="list-reset flex justify-between text-sm h-full">
-        <li className="">
+      <ul className="list-reset flex justify-between text-base h-full">
+        <li className="px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="mailto:masonam96@outlook.com?Subject=Hello!"
@@ -28,7 +28,7 @@ const Footer = () => (
             <FaEnvelope className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="">
+        <li className="px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://www.linkedin.com/in/andrew-mason"
@@ -38,7 +38,7 @@ const Footer = () => (
             <FaLinkedin className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="">
+        <li className="px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://twitter.com/andrewmcodes"
@@ -48,7 +48,7 @@ const Footer = () => (
             <FaTwitterSquare className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="">
+        <li className="pl-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://github.com/andrewmcodes"
