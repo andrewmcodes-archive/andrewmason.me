@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
-import Contact from "../images/contact.svg";
+// import Contact from "https://res.cloudinary.com/onshore-studios/image/upload/v1546924147/andrewmason.me/contact.svg";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
@@ -9,8 +9,8 @@ import { FaTwitterSquare } from "react-icons/fa";
 const ContactPage = () => (
   <div>
     <img
-      src={Contact}
-      className="block mx-auto w-3/4 sm:w-3/5 "
+      src="https://res.cloudinary.com/onshore-studios/image/upload/v1546924147/andrewmason.me/contact.svg"
+      className="block mx-auto w-3/4 sm:w-3/5 mb-8 sm:mb-16"
       alt="Emails Undraw Graphic"
     />
     <ul className="mt-16 list-reset flex flex-wrap sm:justify-between text-3xl sm:text-4xl h-full">
