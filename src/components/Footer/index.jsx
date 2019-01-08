@@ -5,8 +5,8 @@ import { FaEnvelope } from "react-icons/fa";
 import { FaTwitterSquare } from "react-icons/fa";
 const Footer = () => (
   <div className="bg-grey-lighter shadow-inner">
-    <div className="flex flex-col md:flex-row md:justify-between max-w-xl mx-auto p-4 md:p-8 text-sm">
-      <p className="w-full md:w-3/4 text-center md:text-left mb-2 sm:mb-0 text-indigo-darkest">
+    <div className="flex flex-col-reverse md:flex-row md:justify-between max-w-xl mx-auto p-4 md:p-8 text-sm">
+      <p className="w-full md:w-3/4 text-center md:text-left mt-4 sm:mt-0 text-indigo-dark">
         © 2018{" "}
         <a
           href="https://andrewmason.me"
