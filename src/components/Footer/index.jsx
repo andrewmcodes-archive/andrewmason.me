@@ -6,7 +6,7 @@ import { FaTwitterSquare } from "react-icons/fa";
 const Footer = () => (
   <div className="bg-grey-lighter shadow-inner">
     <div className="flex justify-between max-w-xl mx-auto p-4 md:p-8 text-sm">
-      <p className="sm:w-3/4 text-indigo-darkest">
+      <p className="md:w-3/4 text-indigo-darkest">
         © 2018{" "}
         <a
           href="https://andrewmason.me"
@@ -17,8 +17,8 @@ const Footer = () => (
           Andrew Mason
         </a>
       </p>
-      <ul className="sm:w-1/4 list-reset flex justify-between text-base h-full">
-        <li className="px-2">
+      <ul className="md:w-1/4 list-reset flex justify-between text-base h-full">
+        <li className="px-1 md:px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="mailto:masonam96@outlook.com?Subject=Hello!"
@@ -28,7 +28,7 @@ const Footer = () => (
             <FaEnvelope className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="px-2">
+        <li className="px-1 md:px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://www.linkedin.com/in/andrew-mason"
@@ -38,7 +38,7 @@ const Footer = () => (
             <FaLinkedin className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="px-2">
+        <li className="px-1 md:px-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://twitter.com/andrewmcodes"
@@ -48,7 +48,7 @@ const Footer = () => (
             <FaTwitterSquare className="text-center w-full mb-4" />
           </a>
         </li>
-        <li className="pl-2">
+        <li className="pl-1 md:pl-2">
           <a
             className="flex flex-col text-center text-indigo-darker no-underline font-semibold"
             href="https://github.com/andrewmcodes"
