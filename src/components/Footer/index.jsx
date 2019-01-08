@@ -24,6 +24,8 @@ const Footer = () => (
             href="mailto:masonam96@outlook.com?Subject=Hello!"
             target="_blank"
             rel="noopener"
+            aria-label="Email"
+            rel="noopener"
           >
             <FaEnvelope className="text-center w-full mb-4" />
           </a>
@@ -33,6 +35,8 @@ const Footer = () => (
             className="flex flex-col text-center text-indigo-darker hover:text-blue no-underline font-semibold"
             href="https://www.linkedin.com/in/andrew-mason"
             target="_blank"
+            rel="noopener"
+            aria-label="LinkedIn"
             rel="noopener"
           >
             <FaLinkedin className="text-center w-full mb-4" />
@@ -44,6 +48,8 @@ const Footer = () => (
             href="https://twitter.com/andrewmcodes"
             target="_blank"
             rel="noopener"
+            aria-label="Twitter"
+            rel="noopener"
           >
             <FaTwitterSquare className="text-center w-full mb-4" />
           </a>
@@ -53,6 +59,8 @@ const Footer = () => (
             className="flex flex-col text-center text-indigo-darker hover:text-blue no-underline font-semibold"
             href="https://github.com/andrewmcodes"
             target="_blank"
+            rel="noopener"
+            aria-label="Github"
             rel="noopener"
           >
             <FaGithub className="text-center w-full mb-4" />
