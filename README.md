@@ -1,5 +1,7 @@
 # Andrewmason.me
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandrewmcodes%2Fandrewmason.me.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandrewmcodes%2Fandrewmason.me?ref=badge_shield)
+
 ## Getting started
 
 Install Gatsby CLI:
