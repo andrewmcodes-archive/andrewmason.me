@@ -26,7 +26,6 @@ npm run develop
 ## Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/andrewmcodes/andrewmason.me)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandrewmcodes%2Fandrewmason.me.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandrewmcodes%2Fandrewmason.me?ref=badge_shield)
 
 ## Resources
 
