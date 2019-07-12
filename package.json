@@ -30,6 +30,6 @@
     "gatsby-plugin-eslint": "^2.0.4",
     "prettier": "^1.16.4",
     "purgecss": "^1.1.0",
-    "tailwindcss": "^0.7.4"
+    "tailwindcss": "^1.0.5"
   }
 }
